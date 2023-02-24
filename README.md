@@ -101,3 +101,20 @@ Para hacer las transformaciones, usamos las fórmulas:
 
 **9.5.4 Resuelva las operaciones anteriores por medio de la calculadora y compare resultados.**
 
+**a)**
+
+![image](https://user-images.githubusercontent.com/116774235/221202915-c8e90962-f6d1-41ea-bc95-751fb82c211b.png)
+
+![image](https://user-images.githubusercontent.com/116774235/221207360-7d51cc69-644e-4a46-b3e6-f76f439ab7f4.png)
+
+**b)**
+
+![image](https://user-images.githubusercontent.com/116774235/221203212-a10237ca-3196-428c-a1bf-11415dd68769.png)
+
+![image](https://user-images.githubusercontent.com/116774235/221208085-440ebb2e-1d80-4925-b27e-83ab928d5695.png)
+
+**c)**
+
+![image](https://user-images.githubusercontent.com/116774235/221203337-3c696c17-b900-4533-bf50-5c7b82c03291.png)
+
+![image](https://user-images.githubusercontent.com/116774235/221208401-58997278-ec17-407d-be92-4b3c96811fda.png)
