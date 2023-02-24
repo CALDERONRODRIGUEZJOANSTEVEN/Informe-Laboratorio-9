@@ -18,7 +18,7 @@ Realizar las operaciones tanto aritméticas como algebraicas en base a los numer
 
 # **MARCO TEÓRICO**
 
-
+![GG](https://user-images.githubusercontent.com/116774235/221217912-ed531123-0317-4bab-8956-49c06e20aa77.jpg)
 
 # **MATERIAL Y EQUIPO REQUERIDO**
 
