@@ -70,3 +70,7 @@ Para hacer las transformaciones, usamos las fórmulas:
 **d)** 45 ∠ -117.9º
 
 ![image](https://user-images.githubusercontent.com/116774235/221201596-876d144a-23e7-4a69-b97a-9a05a3c9cd46.png)
+
+**9.5.3. Sin emplear calculadora. Realice las siguientes operaciones paso a paso, y
+represente el resultado tanto en su forma rectangular como en su forma polar.**
+
