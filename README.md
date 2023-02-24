@@ -74,3 +74,29 @@ Para hacer las transformaciones, usamos las fórmulas:
 **9.5.3. Sin emplear calculadora. Realice las siguientes operaciones paso a paso, y
 represente el resultado tanto en su forma rectangular como en su forma polar.**
 
+**a)**
+
+![image](https://user-images.githubusercontent.com/116774235/221202915-c8e90962-f6d1-41ea-bc95-751fb82c211b.png)
+
+***Resolución:***
+
+![image](https://user-images.githubusercontent.com/116774235/221203030-fbdbb01b-48e6-4f63-b355-ba6dca463109.png)
+
+![image](https://user-images.githubusercontent.com/116774235/221203107-ccd28a55-f8d4-4140-a83c-ec7c0eea0474.png)
+
+**b)**
+
+![image](https://user-images.githubusercontent.com/116774235/221203212-a10237ca-3196-428c-a1bf-11415dd68769.png)
+
+***Resolución:***
+
+![image](https://user-images.githubusercontent.com/116774235/221203295-0c0941ea-6c58-48cf-88c0-79c8a3830dc3.png)
+
+**c)**
+
+![image](https://user-images.githubusercontent.com/116774235/221203337-3c696c17-b900-4533-bf50-5c7b82c03291.png)
+
+***Resolución:***
+
+![image](https://user-images.githubusercontent.com/116774235/221203414-285f6b3a-a104-4013-b783-c51be03b7a6c.png)
+
