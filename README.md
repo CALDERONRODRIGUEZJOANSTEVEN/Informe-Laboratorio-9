@@ -43,5 +43,6 @@ Para hacer las transformaciones, usamos las fórmulas:
 
 **c)**  4.3 - 2.8j
 
+![image](https://user-images.githubusercontent.com/116774235/221196373-aca41570-8ec5-4153-987c-b740e878df1d.png)
 
 **d)** -6 - 3.2 j
