@@ -1,1 +1,25 @@
 # Informe-Laboratorio-9
+
+**NOMBRES:** JOAN CALDERÓN, JEAN MACIAS
+
+**NRC:** 10063
+
+# **OBJETIVOS**
+
+### **OBJETIVO GENERAL**
+
+
+### **OBJETIVOS ESPECÍFICOS**
+
+*
+
+*
+
+# **MARCO TEÓRICO**
+
+
+
+# **MATERIAL Y EQUIPO REQUERIDO**
+
+
+# **PROCEDIMIENTO**
