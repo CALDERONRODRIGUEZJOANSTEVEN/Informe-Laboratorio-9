@@ -51,6 +51,11 @@ Para hacer las transformaciones, usamos las fórmulas:
 
 **9.5.2 Sin emplear calculadora. Transforme a su forma rectangular:**
 
+Para hacer las transformaciones, usamos las fórmulas:
+
+![image](https://user-images.githubusercontent.com/116774235/221199580-f413045d-153a-4cef-8cfb-cac8d77d776c.png)
+
+
 **a)** 36 ∠ -10º
 
 **b)** 28.7 ∠ 135º
