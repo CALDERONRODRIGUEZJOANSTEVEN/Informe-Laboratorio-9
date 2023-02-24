@@ -105,16 +105,47 @@ Para hacer las transformaciones, usamos las fórmulas:
 
 ![image](https://user-images.githubusercontent.com/116774235/221202915-c8e90962-f6d1-41ea-bc95-751fb82c211b.png)
 
+***Forma Rectangular:***
+
 ![image](https://user-images.githubusercontent.com/116774235/221207360-7d51cc69-644e-4a46-b3e6-f76f439ab7f4.png)
+
+***Forma Polar:***
+
+![image](https://user-images.githubusercontent.com/116774235/221210702-8b28a7e6-f7cd-4b42-bcfe-613ed149acf0.png)
 
 **b)**
 
 ![image](https://user-images.githubusercontent.com/116774235/221203212-a10237ca-3196-428c-a1bf-11415dd68769.png)
 
+***Forma Rectangular:***
+
 ![image](https://user-images.githubusercontent.com/116774235/221208085-440ebb2e-1d80-4925-b27e-83ab928d5695.png)
+
+***Forma Polar:***
+
+![image](https://user-images.githubusercontent.com/116774235/221210989-0086bb3d-001e-4c37-a58a-075db798bed1.png)
+
 
 **c)**
 
 ![image](https://user-images.githubusercontent.com/116774235/221203337-3c696c17-b900-4533-bf50-5c7b82c03291.png)
 
+***Forma Rectangular:***
+
 ![image](https://user-images.githubusercontent.com/116774235/221208401-58997278-ec17-407d-be92-4b3c96811fda.png)
+
+***Forma Polar:***
+
+![image](https://user-images.githubusercontent.com/116774235/221211208-825a5886-6dbf-4097-ab4c-fc5218174b9b.png)
+
+# **CONCLUSIONES**
+
+* El fasor es un vector representado de forma matemática como un número complejo y representan una onda sinusoidal donde su componentes derciben la amplitud y el ágnulo de la onda, además, los fasores permiten el cálculo de los voltajes o corriente instantáneas.
+
+* La calculadora científica permite realizar operaciones con números complejos pero previo al cálculo se debe especificar a la calculadora que se va a trabajar con números complejos y para ello se debe modificar el modo en el que se encuentra originalmente la calculadora.
+
+# **BIBLIOGRAFÍA**
+
+* Floyd, T. (2007). Principios de circuitos eléctricos. PEARSON Educación.
+
+* Valencia, M. V. (22 de julio de 2020). NÚMEROS COMPLEJOS Y FASORES. 
