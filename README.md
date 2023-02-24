@@ -53,10 +53,11 @@ Para hacer las transformaciones, usamos las fórmulas:
 
 Para hacer las transformaciones, usamos las fórmulas:
 
-![image](https://user-images.githubusercontent.com/116774235/221199580-f413045d-153a-4cef-8cfb-cac8d77d776c.png)
-
+![image](https://user-images.githubusercontent.com/116774235/221199941-0e1e0f3b-22b7-4576-9317-39923639f6c8.png)
 
 **a)** 36 ∠ -10º
+
+
 
 **b)** 28.7 ∠ 135º
 
