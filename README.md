@@ -71,8 +71,7 @@ Para hacer las transformaciones, usamos las fórmulas:
 
 ![image](https://user-images.githubusercontent.com/116774235/221201596-876d144a-23e7-4a69-b97a-9a05a3c9cd46.png)
 
-**9.5.3. Sin emplear calculadora. Realice las siguientes operaciones paso a paso, y
-represente el resultado tanto en su forma rectangular como en su forma polar.**
+**9.5.3. Sin emplear calculadora. Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su forma rectangular como en su forma polar.**
 
 **a)**
 
@@ -99,4 +98,6 @@ represente el resultado tanto en su forma rectangular como en su forma polar.**
 ***Resolución:***
 
 ![image](https://user-images.githubusercontent.com/116774235/221203414-285f6b3a-a104-4013-b783-c51be03b7a6c.png)
+
+**9.5.4 Resuelva las operaciones anteriores por medio de la calculadora y compare resultados.**
 
