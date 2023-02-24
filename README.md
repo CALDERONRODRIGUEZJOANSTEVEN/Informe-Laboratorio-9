@@ -57,10 +57,16 @@ Para hacer las transformaciones, usamos las fórmulas:
 
 **a)** 36 ∠ -10º
 
-
+![image](https://user-images.githubusercontent.com/116774235/221200280-eb46b1f4-c5c7-4431-a2fe-7292e4e0138a.png)
 
 **b)** 28.7 ∠ 135º
 
+![image](https://user-images.githubusercontent.com/116774235/221200753-c01d0dc6-f1f8-4b38-aa88-cd0b0256dbde.png)
+
 **c)** 11.2 ∠ 28º
 
+![image](https://user-images.githubusercontent.com/116774235/221201019-a1723b02-ef75-4656-8a08-2999e9b56d1b.png)
+
 **d)** 45 ∠ -117.9º
+
+![image](https://user-images.githubusercontent.com/116774235/221201596-876d144a-23e7-4a69-b97a-9a05a3c9cd46.png)
