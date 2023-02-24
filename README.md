@@ -25,7 +25,7 @@
 
 # **PROCEDIMIENTO**
 
-9.5.1. Sin emplear calculadora. Transforme a su forma polar:
+**9.5.1. Sin emplear calculadora. Transforme a su forma polar:**
 
 Para hacer las transformaciones, usamos las fórmulas:
 
@@ -46,3 +46,15 @@ Para hacer las transformaciones, usamos las fórmulas:
 ![image](https://user-images.githubusercontent.com/116774235/221196373-aca41570-8ec5-4153-987c-b740e878df1d.png)
 
 **d)** -6 - 3.2 j
+
+![image](https://user-images.githubusercontent.com/116774235/221198702-87954861-bb31-4673-b56c-e45d4d58af3c.png)
+
+**9.5.2 Sin emplear calculadora. Transforme a su forma rectangular:**
+
+**a)** 36 ∠ -10º
+
+**b)** 28.7 ∠ 135º
+
+**c)** 11.2 ∠ 28º
+
+**d)** 45 ∠ -117.9º
